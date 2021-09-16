@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 config.yaml
-chromedriver.exe
 /download
 cookies.pkl
 batch.json
